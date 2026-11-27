@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.venv/
+*.zip
+*.ZIP
+*.tsv
+*.log
+00-Source_Data/US_VitalStatistics/
+data/raw/
